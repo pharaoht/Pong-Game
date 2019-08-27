@@ -1,0 +1,10 @@
+C:\Users\Pharaoh Manson\source\repos\PongGame\PongGame\bin\Debug\PongGame.exe.config
+C:\Users\Pharaoh Manson\source\repos\PongGame\PongGame\bin\Debug\PongGame.exe
+C:\Users\Pharaoh Manson\source\repos\PongGame\PongGame\bin\Debug\PongGame.pdb
+C:\Users\Pharaoh Manson\source\repos\PongGame\PongGame\obj\Debug\PongGame.csprojAssemblyReference.cache
+C:\Users\Pharaoh Manson\source\repos\PongGame\PongGame\obj\Debug\PongGame.Form1.resources
+C:\Users\Pharaoh Manson\source\repos\PongGame\PongGame\obj\Debug\PongGame.Properties.Resources.resources
+C:\Users\Pharaoh Manson\source\repos\PongGame\PongGame\obj\Debug\PongGame.csproj.GenerateResource.cache
+C:\Users\Pharaoh Manson\source\repos\PongGame\PongGame\obj\Debug\PongGame.csproj.CoreCompileInputs.cache
+C:\Users\Pharaoh Manson\source\repos\PongGame\PongGame\obj\Debug\PongGame.exe
+C:\Users\Pharaoh Manson\source\repos\PongGame\PongGame\obj\Debug\PongGame.pdb
